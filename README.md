@@ -1,0 +1,1 @@
+This is the code that works like a calculator where the user will enter two numbers and also the operator they want to use e.g.("+") then they will get their results. this was built using switch and if statement i.e. java.
